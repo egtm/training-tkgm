@@ -82,7 +82,7 @@ NEXT
 # 5. Resources
 # ------------------------------------------------------------------------------
 - VM FOLDER: /Datacenter/vm/TKGM-TRAINING
-- DATASTORE: /Datacenter/datastore/datastore-1
+- DATASTORE: /Datacenter/datastore/Datastore
 - CLUSTERS, HOSTS, AND RESOURCE POOLS: Check "Cluster"
 - NEXT
 

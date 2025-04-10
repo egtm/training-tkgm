@@ -3,7 +3,7 @@ This environment is designed as a sandbox, so you're welcome to perform any oper
 If things ever get too messed up to fix, just let the admin know—no worries!
 
 ## Network Diagram
-![network diagram](./sandbox.svg)
+![network diagram](./9-images/sandbox.svg)
 
 ## bootstrap server
 

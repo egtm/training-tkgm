@@ -123,7 +123,7 @@
                 <mxCell id="Lztl155RbVr9X5JfVb0l-7" value="ens256&lt;div&gt;192.168.201.1&lt;/div&gt;&lt;div&gt;gateway&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="320" y="294" width="80" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="Lztl155RbVr9X5JfVb0l-34" value="bootstrap-sandbox-1&lt;div&gt;DHCP/NTP/DNS/Gateway&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                <mxCell id="Lztl155RbVr9X5JfVb0l-34" value="bootstrap-sandbox-1&lt;div&gt;DHCP/NTP/DNS/Proxy&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="280" y="380" width="160" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="Lztl155RbVr9X5JfVb0l-37" value="harbor-v210.lab.net&lt;div&gt;Harbor&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -135,12 +135,12 @@
                         <mxPoint x="525" y="600" as="sourcePoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="2">
+                <mxCell id="3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="2" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="850" y="320" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="2" value="esxi-s1.lab.net&lt;div&gt;ESXi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="2" value="esxi-s1.lab.net&lt;div&gt;ESXi&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="790" y="250" width="120" height="44" as="geometry"/>
                 </mxCell>
             </root>
